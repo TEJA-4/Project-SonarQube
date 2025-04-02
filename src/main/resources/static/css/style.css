@@ -1,0 +1,27 @@
+/* Hero Section */
+.hero {
+    background: url('hero-bg.jpg') center/cover no-repeat;
+    padding: 80px 0;
+}
+
+/* Course Cards */
+.course-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+}
+.course-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Navbar */
+.navbar .form-control {
+    width: 300px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar .form-control {
+        width: 100%;
+    }
+}
