@@ -34,4 +34,3 @@ This project demonstrates automated code quality analysis using SonarQube, integ
 🔄 Continuous Integration - Automates builds & analysis with Jenkins ⚡
 🛡️ Secure Image Storage - Pushes validated images to DockerHub 🔒
 
-🎯 Want to contribute? Feel free to fork and submit a pull request! 💡
